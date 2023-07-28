@@ -3,7 +3,7 @@ function clicar() {
     let n2 = parseFloat(document.getElementById('n2').value);
 
     if (n1 >= 0 && n2 >= 0) {
-        alert('**Parabéns! Você acabou de HACKEAR a NASA!!**');
+        alert('**Parabéns! Você acabou de HACKEAR a NASA!! Agora, Bem-Vindo aos Anonymous!**');
     } else {
         alert('**Insira um número *positivo* e veja o que acontecerá!**')
     }
